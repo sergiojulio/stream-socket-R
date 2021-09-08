@@ -1,3 +1,4 @@
+# load library
 library(SparkR)
 
 sparkR.session(appName = "StructuredNetworkWordCount")
